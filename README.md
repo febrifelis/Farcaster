@@ -14,8 +14,10 @@ jalankan command berikut
 
     wget https://raw.githubusercontent.com/febrifelis/farcaster/main/node.sh && chmod +x node.sh && ./node.sh
     
-Lalu paste RPC ETH dan Optimism dan masukkan juga FID atau Username Farcaster kalian
+Lalu paste RPC ETH, ETH Optimism dan masukkan juga FID atau Username Farcaster kalian
 Selesai, dan biarkan proses instalasi selesaai
 
 # 4. Cek Dashboard
-    Untuk melakukan cek dashboard kalian bisa mengunjungi http://IP VPS KALIAN:3000
+Untuk melakukan cek dashboard kalian bisa mengunjungi 
+    
+    http://IP VPS KALIAN:3000
