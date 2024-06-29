@@ -1,13 +1,13 @@
 # Farcaster
 
 # Tutorial menjalakan node
-# 1. Clone Repo
-    git clone https://github.com/febrifelis/Farcaster
+# 1. VPS
+Sediakan VPS dengan ram minimal 16GB
 
 # 2. Setting RPC
-    1. Buat RPC di https://app.infura.io/
-    2. Setting RPC untuk Ethereum Mainnet dan Optimism Mainnet
-    3. Siapkan RPC Endpointnya untuk ditempel di step selanjutnya
+1. Buat RPC di https://app.infura.io/
+2. Setting RPC untuk Ethereum Mainnet dan Optimism Mainnet
+3. Siapkan RPC Endpointnya untuk ditempel di step selanjutnya
 
 # 3. Running node
 jalankan command berikut
